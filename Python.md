@@ -9,9 +9,9 @@ Confused by the terminology? Just see this example:
 
 ```
 x = 67
-print(x) \#Prints 67
+print(x) #Prints 67
 x = "Crocodile"
-print(x) \#Prints Crocodile
+print(x) #Prints Crocodile
 ```
 
 Now, try executing the same in Java/C/C++. These languages go crazy during the second assignment, as the type with which a variable is declared will be fixed once specified. But Python? It's friends with flexibility. It doesn't have type declaration. And the final type of the variable will be the type of the value last assigned (in this case, it'll be of 'str' type).
