@@ -1,6 +1,6 @@
 # How Python is a different breed
 
-Ever wondered if Python has different reasons to stand out, other than the fact that it doesn't need semicolons? No? Well, now you do. Python didn't appear in the spotlight overnight; there are real reasons why it earned this position. In this resource article, we will brush upon *some* of these quirky reasons, that make Python what it is.
+Ever wondered if Python has different reasons to stand out, other than the fact that it doesn't need semicolons? No? Well, now you do. Python didn't become popular in a vacuum; it grew alongside a new wave of modern languages that care about readability, flexibility and developer sanity. What makes Python special isn't that it owns these ideas; it's how efforlessly it puts them together. In this resource article, we will brush upon *some* of the quirky reasons that make Python feel different, and why it keeps showing up everywhere from classrooms to real-world projects.
 
 
 ## 1. Indentation
