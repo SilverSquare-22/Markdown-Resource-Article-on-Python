@@ -69,3 +69,8 @@ sum([1, 2, 3]) # 6
 ## 6. Memory Location Shifting
 
 What happens when a variable is overwritten? In statically typed languages like C/C++/Java, the old value is discarded and a new value occupies the emptied space. But, the memory location of the variable remains unaltered, before and after overwriting. Python is an exception here too! Changing the value of a variable will bind it to a new memory location. In this way, the previous value in the previous memory location remains unaffected.
+
+
+## 7. Libraries
+
+Python has libraries for literally any task you could fathom. It dominates the AIML, Data Science and Web Development domains due to this huge resource pool. This renders it a popular choice among both beginners and professionals alike.
