@@ -3,7 +3,7 @@
 Ever wondered if Python has different reasons to stand out, other than the fact that it doesn't need semicolons? No? Well, now you do. Python didn't appear in the spotlight overnight; there are real reasons why it earned this position. In this resource article, we will brush upon *some* of these quirky reasons, that make Python what it is.
 
 
-### 1. Dynamic typing
+### 1. Dynamic Typing
 
 Confused by the terminology? Just see this example:
 
@@ -34,3 +34,8 @@ x, y = y, x
 ```
 
 See how simple Python is?
+
+
+### 3. Memory Location Shifting
+
+What happens when a variable is overwritten? In statically typed languages like C/C++/Java, the old value is discarded and a new value occupies the emptied space. But, the memory location of the variable remains unaltered, before and after overwriting. Python is an exception here too! Changing the value of a variable will bind it to a new memory location. In this way, the previous value in the previous memory location remains unaffected.
