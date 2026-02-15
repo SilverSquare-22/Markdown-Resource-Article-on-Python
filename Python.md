@@ -3,7 +3,12 @@
 Ever wondered if Python has different reasons to stand out, other than the fact that it doesn't need semicolons? No? Well, now you do. Python didn't appear in the spotlight overnight; there are real reasons why it earned this position. In this resource article, we will brush upon *some* of these quirky reasons, that make Python what it is.
 
 
-### 1. Dynamic Typing
+### 1. Indentation
+
+Thought indentations are just for aesthetics? From if-else blocks to loops to function definitions, Python lives by indentations. Miss one, and the code will collapse!
+
+
+### 2. Dynamic Typing
 
 Confused by the terminology? Just see this example:
 
@@ -17,7 +22,7 @@ print(x) # Prints Crocodile
 Now, try executing the same in Java/C/C++. These languages go crazy during the second assignment, as the type with which a variable is declared will be fixed once specified. But Python? It's friends with flexibility. It doesn't have type declaration. And the final type of the variable will be the type of the value last assigned (in this case, it'll be of 'str' type).
 
 
-### 2. Swapping Values
+### 3. Swapping Values
 
 How would you swap the values of two variables without using a temporary variable? The following might be the way you would come up with:
 
@@ -36,6 +41,6 @@ x, y = y, x
 See how simple Python is?
 
 
-### 3. Memory Location Shifting
+### 4. Memory Location Shifting
 
 What happens when a variable is overwritten? In statically typed languages like C/C++/Java, the old value is discarded and a new value occupies the emptied space. But, the memory location of the variable remains unaltered, before and after overwriting. Python is an exception here too! Changing the value of a variable will bind it to a new memory location. In this way, the previous value in the previous memory location remains unaffected.
