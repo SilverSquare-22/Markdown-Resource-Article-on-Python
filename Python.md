@@ -3,6 +3,7 @@
 Ever wondered if Python has different reasons to stand out, other than the fact that it doesn't need semicolons? No? Well, now you do. Python didn't become popular in a vacuum; it grew alongside a new wave of modern languages that care about readability, flexibility and developer sanity. What makes Python special isn't that it owns these ideas; it's how efforlessly it puts them together. In this resource article, we will brush upon *some* of the quirky reasons that make Python feel different, and why it keeps showing up everywhere from classrooms to real-world projects.
 
 
+
 ## 1. Indentation
 
 Thought indentations are just for aesthetics? From if-else blocks to loops to function definitions, Python lives by indentations. Miss one, and the code will collapse!
@@ -74,6 +75,7 @@ What happens when a variable is overwritten? In statically typed languages like 
 ## 7. Libraries
 
 Python has libraries for literally any task you could fathom. It dominates the AIML, Data Science and Web Development domains due to this huge resource pool. This renders it a popular choice among both beginners and professionals alike.
+
 
 
 Python isn’t cool because it’s unique. It’s cool because it’s practical. It takes modern programming concepts and makes them feel natural instead of intimidating. That’s why beginners love it, and professionals still rely on it. Python isn’t just something you learn once; it’s something you keep coming back to.
