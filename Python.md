@@ -53,6 +53,19 @@ x, y = y, x
 See how simple Python is?
 
 
-## 5. Memory Location Shifting
+## 5. Built-in functions
+
+Built-in functions exist in every language. Yet, for simple operations such as computing the sum of an integer list, or finding the occurrence of a substring/sublist in a string/list, you would have to use loops or import a new module just to use a small function. Python lends you a helping hand in this scenario. With its short and crisp syntax, the implementation becomes a lot easier.
+
+Some examples:
+
+```
+sum([1, 2, 3]) # 6
+[3, 5, 1, 2, 5].count(5) # 2
+"Applepie".count("p") # 3
+```
+
+
+## 6. Memory Location Shifting
 
 What happens when a variable is overwritten? In statically typed languages like C/C++/Java, the old value is discarded and a new value occupies the emptied space. But, the memory location of the variable remains unaltered, before and after overwriting. Python is an exception here too! Changing the value of a variable will bind it to a new memory location. In this way, the previous value in the previous memory location remains unaffected.
