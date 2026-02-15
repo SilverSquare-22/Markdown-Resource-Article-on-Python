@@ -4,12 +4,12 @@ Ever wondered if Python has different reasons to stand out, other than the fact 
 
 
 
-## 1. Indentation
+### 1. Indentation
 
 Thought indentations are just for aesthetics? From if-else blocks to loops to function definitions, Python lives by indentations. Miss one, and the code will collapse!
 
 
-## 2. Dynamic Typing
+### 2. Dynamic Typing
 
 Confused by the terminology? Just see this example:
 
@@ -23,7 +23,7 @@ print(x) # Prints Crocodile
 Now, try executing the same in Java/C/C++. These languages go crazy during the second assignment, as the type with which a variable is declared will be fixed once specified. But Python? It's friends with flexibility. It doesn't have type declaration. And the final type of the variable will be the type of the value last assigned (in this case, it'll be of 'str' type).
 
 
-## 3. GIF (Greatest Integer Function)
+### 3. GIF (Greatest Integer Function)
 
 Python has an exclusive operator to extract the integral part of a float quotient. It is indicated by double slashes, //.
 
@@ -35,7 +35,7 @@ Python has an exclusive operator to extract the integral part of a float quotien
 The reason for the existence of such an operator is attributed to dynamic typing. Despite the operands being integers, the resultant will be of 'float' type, unlike C/C++/Java, wherein type casting takes place implicitly.
 
 
-## 4. Swapping Values
+### 4. Swapping Values
 
 How would you swap the values of two variables without using a temporary variable? The following might be the way you would come up with:
 
@@ -54,7 +54,7 @@ x, y = y, x
 See how simple Python is?
 
 
-## 5. Built-in functions
+### 5. Built-in functions
 
 Built-in functions exist in every language. Yet, for simple operations such as computing the sum of an integer list, or finding the occurrence of a substring/sublist in a string/list, you would have to use loops or import a new module just to use a small function. Python lends you a helping hand in this scenario. With its short and crisp syntax, the implementation becomes a lot easier.
 
@@ -67,15 +67,16 @@ sum([1, 2, 3]) # 6
 ```
 
 
-## 6. Memory Location Shifting
+### 6. Memory Location Shifting
 
 What happens when a variable is overwritten? In statically typed languages like C/C++/Java, the old value is discarded and a new value occupies the emptied space. But, the memory location of the variable remains unaltered, before and after overwriting. Python is an exception here too! Changing the value of a variable will bind it to a new memory location. In this way, the previous value in the previous memory location remains unaffected.
 
 
-## 7. Libraries
+### 7. Libraries
 
 Python has libraries for literally any task you could fathom. It dominates the AIML, Data Science and Web Development domains due to this huge resource pool. This renders it a popular choice among both beginners and professionals alike.
 
 
+## Conclusion
 
 Python isn’t cool because it’s unique. It’s cool because it’s practical. It takes modern programming concepts and makes them feel natural instead of intimidating. That’s why beginners love it, and professionals still rely on it. Python isn’t just something you learn once; it’s something you keep coming back to.
